@@ -1,5 +1,2 @@
-dsbdf
-ergrb
-bre
-
-hhh
+for i in range(13):
+	print(i)
